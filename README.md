@@ -7,6 +7,8 @@
 <tr border="none">
 <td width="50%" align="left">
   
+- 🔭 I’m currently working on **AutomatePotato Disease Detection web-based system**
+  
 - 🌱 I’m currently learning **MERN**
 
 - 🧑‍🎓 I’m an Undergraduate at **Rajarata University**
